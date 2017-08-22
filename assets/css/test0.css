@@ -1,0 +1,134 @@
+html,body{ 
+    font-family: 'Open Sans', sans-serif;           
+        }  
+
+#head { 
+	border-bottom:0.5px solid #D0D0D0;
+	height: 100%;
+	width: 100%;
+    	}
+
+#head-left{
+	float: left;
+	width: 50%;
+	height: 100%;
+    	}
+#head-right{
+	float: right;
+	width: 50%;
+	height: 100%;
+    	}
+
+
+#head-left-content{
+    position:relative;
+    margin: 25% 18% ; 
+    letter-spacing: 0.7px;
+    line-height: 200%;
+    height: 100%;
+    width: 60%;
+}
+
+.major{
+    font-size: 1.25em;
+}
+
+.btn{
+    position:relative;
+    border-radius: 50px;
+    bottom: -10px;
+    left: -5px;
+    width: 40%;
+    height: 10%;
+    border:0.5px solid #D0D0D0;
+}
+
+#bodypart{
+    margin: 10% 10% 0 10% ;
+    width: 80%;
+}
+
+.img{
+    width: 80%;
+    height:80%;
+}
+
+#foot{
+    height: 100%;
+    width: 100%;
+    clear: both;
+    border-top:0.5px solid #D0D0D0;
+
+}
+
+.pre-next{
+    position: relative;
+    width: 100%;
+    top: 10%;
+
+
+}
+
+
+.pre-href{
+    float: left;
+    position: relative;
+    left: 10%;
+}
+
+.next-href{
+    float:right;
+    right: 10%; 
+    position: relative;
+}
+
+.pre-next a{
+    color:#04090D;
+}
+
+.pre-next a:hover{
+    color:#C7A374;
+}
+
+.contact{
+    position: relative;
+    width: 50%;
+    top: 20%;
+    margin:auto; 
+
+
+}
+
+.contact ul{
+    position: relative;
+    list-style:none;
+    left: 3%;
+    font-size:24px;
+    
+
+}
+
+.contact li{
+    float: left;
+    width: 20%;
+    
+}
+
+.contact a{
+    position: relative;
+    margin:auto;
+    color : #333333;
+}
+
+.contact a:hover{
+    color : #EEEEEE !important;
+}
+.contact button:hover{
+    background-color : #C7A374 !important;
+}
+
+.contact p{
+    clear:left;
+    text-align:center;
+}
+
